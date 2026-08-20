@@ -21,7 +21,7 @@ const SpecialOffers = ({ loading }) => {
 
   const offers = [
     {
-      company: 'أمان الاتحاد', logo: '/index_files/TUIC.svg', price: '2379', rating: 4,
+      company: 'أمان الاتحاد', logo: '/index_files/TUIC.svg', price: '2379.50', rating: 4,
       features: [
         {text: 'تغطية الحوادث الشخصية للسائق فقط', price: '50 ريال'},
         {text: 'التغطية الجغرافية لمملكة البحرين', price: '200 ريال'},
@@ -31,7 +31,7 @@ const SpecialOffers = ({ loading }) => {
       ]
     },
     {
-      company: 'أسيج', logo: '/index_files/ACIG.svg', price: '1030', rating: 5,
+      company: 'أسيج', logo: '/index_files/ACIG.svg', price: '1030.70', rating: 5,
       features: [
         {text: 'المسؤولية المدنية تجاه الغير (10 مليون)', price: 'مشمول'},
         {text: 'الاخطار الطبيعية', price: 'مشمول'},
