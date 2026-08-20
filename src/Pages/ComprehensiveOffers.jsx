@@ -21,7 +21,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
 
   const offers = [
     {
-      company: 'تكافل الراجحي', logo: '/index_files/AlRajhi.svg', price: '1263', rating: 4,
+      company: 'تكافل الراجحي', logo: '/index_files/AlRajhi.svg', price: '1263.10', rating: 4,
       features: [
         {text: 'مسؤلية الطرف الثالث', price: 'مشمول'},
         {text: 'إعفاء من نسبة استهلاك قطع الغيار', price: 'مشمول'},
@@ -31,7 +31,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'العربية للتأمين', logo: '/index_files/AICC.svg', price: '2781', rating: 5,
+      company: 'العربية للتأمين', logo: '/index_files/AICC.svg', price: '2781.70', rating: 5,
       features: [
         {text: 'تغطية الحوادث الشخصية للسائق فقط', price: '50 ريال'},
         {text: 'تغطية الحوادث الشخصية للركاب فقط', price: '280 ريال'},
@@ -40,7 +40,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'الخليجية العامة', logo: '/index_files/GGI.svg', price: '1118', rating: 5,
+      company: 'الخليجية العامة', logo: '/index_files/GGI.svg', price: '1118.40', rating: 5,
       features: [
         {text: 'الاخطار الطبيعية', price: 'مشمول'},
         {text: 'الزجاج الأمامي والحرائق والسرقة', price: 'مشمول'},
@@ -50,7 +50,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'ميدغلف', logo: '/index_files/MedGulf.svg', price: '2019', rating: 4,
+      company: 'ميدغلف', logo: '/index_files/MedGulf.svg', price: '2019.60', rating: 4,
       features: [
         {text: 'الاخطار الطبيعية', price: 'مشمول'},
         {text: 'ضرر كامل وجزئي', price: 'مشمول'},
@@ -59,7 +59,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'ولاء', logo: '/index_files/Walaa.svg', price: '1321', rating: 3,
+      company: 'ولاء', logo: '/index_files/Walaa.svg', price: '1321.10', rating: 3,
       features: [
         {text: 'تغطية الحوادث الشخصية للسائق فقط', price: '50 ريال'},
         {text: 'المساعدة على الطريق', price: '50 ريال'},
@@ -68,7 +68,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'أمانة', logo: '/index_files/Amana.svg', price: '1189', rating: 4,
+      company: 'أمانة', logo: '/index_files/Amana.svg', price: '1189.50', rating: 4,
       features: [
         {text: 'المساعدة على الطريق', price: 'مشمول'},
         {text: 'الوفاة والإصابة الجسدية والمصاريف الطبية', price: '50 ريال'},
@@ -78,7 +78,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'سلامة للتأمين التعاوني', logo: '/index_files/Salama.svg', price: '3517', rating: 5,
+      company: 'سلامة للتأمين التعاوني', logo: '/index_files/Salama.svg', price: '3517.70', rating: 5,
       features: [
         {text: 'سيارة بديلة', price: '575 ريال'},
         {text: 'المساعدة على الطريق', price: '345 ريال'},
@@ -87,7 +87,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'الدرع العربي للتأمين', logo: '/index_files/ArabianShield.svg', price: '1574', rating: 4,
+      company: 'الدرع العربي للتأمين', logo: '/index_files/ArabianShield.svg', price: '1574.30', rating: 4,
       features: [
         {text: 'المسؤولية المدنية تجاه الغير (10 مليون)', price: 'مشمول'},
         {text: 'الاخطار الطبيعية', price: 'مشمول'},
@@ -97,7 +97,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'بروج للتأمين التعاوني', logo: '/index_files/Buruj.svg', price: '1422', rating: 3,
+      company: 'بروج للتأمين التعاوني', logo: '/index_files/Buruj.svg', price: '1422.10', rating: 3,
       features: [
         {text: 'تغطية الحوادث الشخصية للسائق فقط', price: '58.82 ريال'},
         {text: 'تغطية الحوادث الشخصية للركاب فقط', price: '411.74 ريال'},
@@ -107,7 +107,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'GiG', logo: '/index_files/AXA.svg', price: '1920', rating: 5,
+      company: 'GiG', logo: '/index_files/AXA.svg', price: '1920.30', rating: 5,
       features: [
         {text: 'الإصابة الجسدية للغير', price: 'مشمول'},
         {text: 'تلف ممتلكات الغير', price: 'مشمول'},
@@ -117,7 +117,7 @@ const ComprehensiveOffers = ({ loading, setLoading }) => {
       ]
     },
     {
-      company: 'الوطنية للتأمين', logo: '/index_files/Wataniya.svg', price: '2214', rating: 5,
+      company: 'الوطنية للتأمين', logo: '/index_files/Wataniya.svg', price: '2214.80', rating: 5,
       features: [
         {text: 'المسؤولية تجاه الغير (10 مليون ريال)', price: 'مشمول'},
         {text: 'تغطية الخسارة الكلية أو الجزئية', price: 'مشمول'},
